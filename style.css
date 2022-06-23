@@ -1,7 +1,7 @@
 .parant {
     width: 600px;
     height: 600px;
-    border: 10px solid red;
+    border: 10px solid rgba(255,105,180,255);
     box-sizing: border-box;
     margin-bottom: 10px;
   }
@@ -14,7 +14,7 @@
   .child2 {
     width: 25%;
     height: 25%;
-    border: 10px solid black;
+    border: 10px solid rgba(105,105,105,255);
     background-color: greenyellow;
     margin-left: 50%;
     box-sizing: border-box;
@@ -28,7 +28,7 @@
   .child4 {
     width: 25%;
     height: 25%;
-    border: 10px solid black;
+    border: 10px solid rgba(105,105,105,255);
     background-color: greenyellow;
     box-sizing: border-box;
   }
@@ -42,25 +42,25 @@
     width: 25%;
     height: 25%;
     padding-left: 25%;
-    background-color: red;
+    background-color: #ff0000;
 }
 .father1{
   width: 25%;
   height: 25%;
  padding-left: 50%;
-  background-color: red;   
+  background-color:  #ff0000;   
 }
 .father2{
   width: 25%;
   height: 25%;
   padding-left: 75%;
-  background-color: red;
+  background-color:  #ff0000;
 }
   .child11 {
     width: 25%;
     height: 25%;
     background-color: yellow;
-    border: 8px solid #ff5900;
+    border: 8px solid #ff6348;
     box-sizing: border-box;
 
   }
@@ -68,7 +68,7 @@
     width: 100%;
     height: 100%;
     background-color: yellow;
-    border: 8px solid#ff5900;
+    border: 8px solid #ff6348;
     box-sizing: border-box;
   }
  
